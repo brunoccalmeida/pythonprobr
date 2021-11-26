@@ -5,7 +5,7 @@ pyflakes==2.4.0
 
 # Deps do pytest
 attrs==21.2.0
-iniconfig==1.1.
+iniconfig==1.1.1
 pluggy==1.0.0
 packaging==21.3
 py==1.11.0
