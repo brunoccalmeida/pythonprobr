@@ -99,7 +99,7 @@ NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Bruno Almeida"
 AUTHOR_EMAIL = "brunoccalmeida@hotmail.com"
-URL = "https://github.com/brunoccalmeida/libpythonpro"
+URL = "https://github.com/brunoccalmeida/libpythonbruno"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
