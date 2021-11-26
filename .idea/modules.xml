@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../libpythonpro/.idea/libpythonpro.iml" filepath="$PROJECT_DIR$/../libpythonpro/.idea/libpythonpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../libpythonbruno/.idea/libpythonbruno.iml" filepath="$PROJECT_DIR$/../libpythonbruno/.idea/libpythonbruno.iml" />
     </modules>
   </component>
 </project>
