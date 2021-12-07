@@ -12,6 +12,8 @@ Link para o curso [Python Pro](https://www.python.pro.br)
 
 [![Python 3](https://pyup.io/repos/github/brunoccalmeida/libpythonbruno/python-3-shield.svg)](https://pyup.io/repos/github/brunoccalmeida/libpythonbruno/)
 
+[![codecov](https://codecov.io/gh/brunoccalmeida/libpythonbruno/branch/master/graph/badge.svg?token=EV05WJ5MWL)](https://codecov.io/gh/brunoccalmeida/libpythonbruno)
+
 Suportada versão 3 de Python
 
 Para instalar:
